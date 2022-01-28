@@ -38,9 +38,8 @@ client.on('ready', () => {
   //   .setColor('#E5A823')
   //   .setTitle('Welcome!')
   //   .setAuthor(
-  //     "Flazey's Welcome Thang",
-  //     'https://i.ytimg.com/vi/CCYCI9FINME/maxresdefault.jpg',
-  //     'https://github.com/justin-zhu1018/flazey-bot'
+  //     " Welcome 👋",
+  //     'https://i.ytimg.com/vi/CCYCI9FINME/maxresdefault.jpg'
   //   )
   //   .setDescription("I am here! Here's some info to help get you started!")
   //   .addFields(
@@ -52,12 +51,12 @@ client.on('ready', () => {
   //     {
   //       name: 'To wake me up (after 30 mins of inactivity)',
   //       value:
-  //         'https://flazey-bot.herokuapp.com/ Quick visit and I should be back in 30 seconds!',
+  //         'https://clashbott.herokuapp.com/ Quick visit and I should be back in 30 seconds!',
   //       inline: false,
   //     },
   //     {
-  //       name: 'My GitHub 😉',
-  //       value: 'https://github.com/justin-zhu1018/flazey-bot',
+  //       name: 'My YouTube Channel 😉',
+  //       value: 'https://youtube.com/c/CoolboyYTr',
   //       inline: false,
   //     }
   //   )
